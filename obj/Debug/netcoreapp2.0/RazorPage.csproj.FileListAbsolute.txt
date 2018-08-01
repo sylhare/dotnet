@@ -1,0 +1,10 @@
+/home/syl/RazorPage/bin/Debug/netcoreapp2.0/RazorPage.deps.json
+/home/syl/RazorPage/bin/Debug/netcoreapp2.0/RazorPage.runtimeconfig.json
+/home/syl/RazorPage/bin/Debug/netcoreapp2.0/RazorPage.runtimeconfig.dev.json
+/home/syl/RazorPage/bin/Debug/netcoreapp2.0/RazorPage.dll
+/home/syl/RazorPage/bin/Debug/netcoreapp2.0/RazorPage.pdb
+/home/syl/RazorPage/obj/Debug/netcoreapp2.0/RazorPage.csproj.CoreCompileInputs.cache
+/home/syl/RazorPage/obj/Debug/netcoreapp2.0/RazorPage.AssemblyInfoInputs.cache
+/home/syl/RazorPage/obj/Debug/netcoreapp2.0/RazorPage.AssemblyInfo.cs
+/home/syl/RazorPage/obj/Debug/netcoreapp2.0/RazorPage.dll
+/home/syl/RazorPage/obj/Debug/netcoreapp2.0/RazorPage.pdb
