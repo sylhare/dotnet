@@ -1,0 +1,12 @@
+/home/syl/RazorPage
+--output-path=obj/release/netcoreapp2.0/
+--application-name=RazorPage
+--content-root=/home/syl/RazorPage
+--file=/home/syl/RazorPage/Pages/About.cshtml
+--file=/home/syl/RazorPage/Pages/Contact.cshtml
+--file=/home/syl/RazorPage/Pages/Error.cshtml
+--file=/home/syl/RazorPage/Pages/Index.cshtml
+--file=/home/syl/RazorPage/Pages/_Layout.cshtml
+--file=/home/syl/RazorPage/Pages/_ValidationScriptsPartial.cshtml
+--file=/home/syl/RazorPage/Pages/_ViewImports.cshtml
+--file=/home/syl/RazorPage/Pages/_ViewStart.cshtml
