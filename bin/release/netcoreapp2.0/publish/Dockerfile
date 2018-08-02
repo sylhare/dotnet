@@ -1,5 +1,3 @@
-# To be in bin/Release/netcoreapp2.0/publish/
-
 FROM microsoft/aspnetcore:2.0
 ADD ./ /app
 ENV ASPNETCORE_URLS=http://*:${PORT}
