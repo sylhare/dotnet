@@ -1,8 +1,6 @@
 # .NET
 
-[![Build Status](https://travis-ci.org/Sylhare/dotnet.svg?branch=master)](https://travis-ci.org/Sylhare/dotnet)
-
-[![Docker Pulls](https://img.shields.io/docker/pulls/sylhare/hello-dotnet.svg)](https://hub.docker.com/r/sylhare/hello-dotnet/)
+[![Build Status](https://travis-ci.org/Sylhare/dotnet.svg?branch=master)](https://travis-ci.org/Sylhare/dotnet) [![Docker Pulls](https://img.shields.io/docker/pulls/sylhare/hello-dotnet.svg)](https://hub.docker.com/r/sylhare/hello-dotnet/)
 
 
 ## Instal .Net
@@ -33,7 +31,7 @@ On Ubuntu **v16.04**
     
 ## Run the application
 
-You can use the docker image at [sylhare/dotnet](https://hub.docker.com/r/sylhare/hello-dotnet/).
+You can use the docker image at [sylhare/hello-dotnet](https://hub.docker.com/r/sylhare/hello-dotnet/).
 Or directly inside the folder using:
 ```
 dotnet run
