@@ -12,13 +12,8 @@ before_script:
 - cd bin/release/netcoreapp2.0/publish/
 - docker build -t sylhare/hello-dotnet:latest .
 - docker run --name dotnetapp -d -p 5000:80 sylhare/hello-dotnet:latest
-- docker ps| grep dotnet
+- docker ps | grep dotnet
 
 script:
 - sleep 10 && curl localhost:5000
 - docker stop dotnetapp
-- docker images
-- docker run --name dotnetapp-v3 -d -p 5000:80 sylhare/hello-dotnet:v3
-- sleep 10 && docker ps && grep dotnet
-- curl localhost:5000
-- docker stop dotnetapp-v3
